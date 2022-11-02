@@ -34,7 +34,7 @@ header .container {
 .logo {
     color:blanchedalmond;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 35px;
+    font-size: 25px;
     margin-left: 12px;
     margin-top: 15px;
     margin-bottom: 15px;
@@ -62,9 +62,10 @@ header nav a:hover {
 
     height: 600px;
 
-    background-size: 630px 630px;
+    background-size: 430px 430px;
     background-repeat: no-repeat;
-    background-position-x: 1150px;
+    background-position-x: 930px;
+    background-position-y: 59px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -81,7 +82,7 @@ header nav a:hover {
 }
 
 .titulo {
-    font-size: 50px;
+    font-size: 45px;
     margin-left: 19px;
     margin-bottom: 29px;
 
