@@ -11,6 +11,7 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
+    
 }
 
 body {
@@ -19,6 +20,8 @@ body {
     /*background-color: var(--preta);*/
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:blanchedalmond; 
+    width: 100%;
+    margin: auto; 
 
 }
 
