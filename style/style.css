@@ -16,8 +16,7 @@
 
 body {
     background-image: url('/img/tipo1.jpg');
-    background-size: cover;
-    /*background-color: var(--preta);*/
+    background-size:auto;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:blanchedalmond; 
     width: 100%;
@@ -49,6 +48,7 @@ header nav a {
     color:rgb(255, 255, 255);
     margin-right: 25px;
     font-size: 18px;
+
 }
 
 header nav a:hover {
